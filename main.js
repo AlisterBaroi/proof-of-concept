@@ -23,7 +23,7 @@ $(function () {
             });
         });
 
-    var publishable_key = "jQbJDgE8nzf0XubL6mh1";
+    var publishable_key = "J027WfgdHbsul2Kd10Gi";
     var toLoad = {
         model: "finale-fq7nc",
         version: 1
