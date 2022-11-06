@@ -23,7 +23,7 @@ $(function () {
             });
         });
 
-    var publishable_key = "J027WfgdHbsul2Kd10Gi";
+    var publishable_key = "rf_0uOMpT9Becad545PljsUwdzN9TH3";
     var toLoad = {
         model: "poc_final",
         version: 1
