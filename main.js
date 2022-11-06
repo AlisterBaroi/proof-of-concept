@@ -25,7 +25,7 @@ $(function () {
 
     var publishable_key = "J027WfgdHbsul2Kd10Gi";
     var toLoad = {
-        model: "finale-fq7nc",
+        model: "poc_final",
         version: 1
     };
 
